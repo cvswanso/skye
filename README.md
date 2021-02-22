@@ -1,4 +1,4 @@
-# skye
+# Skye
 
 **1. What is the goal of your application?**
 I have a dog named Skye and I train her frequently in many different dog sports. My application be similar to a blog where I will post articles on certain training techniques I use. The goal of the application is to provide these training tips and techniques to dog owners without a lot of experience training dogs.
